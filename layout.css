@@ -2,3 +2,13 @@ body {
   background-color: #264d73;
   color: #ecf2f9;
 }
+
+a {
+  color: #ecf2f9;
+}
+
+div.nav {
+	padding: 25px;
+	color: white;
+	font-size: 18px
+}
