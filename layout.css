@@ -38,5 +38,9 @@ p.preamble{
 }
 
 a:link{
-	color: #d3dbe3;
+	color: #c4c5c6;
+}
+
+a:visited{
+	color: #c4c5c6;
 }
