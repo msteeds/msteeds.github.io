@@ -36,3 +36,7 @@ p.preamble{
 	padding-right: 30px;
 	padding-left: 30px;
 }
+
+a:link{
+	color: #d3dbe3;
+}
