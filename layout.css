@@ -13,3 +13,12 @@ div.nav {
 	color: white;
 	font-size: 18px
 }
+
+p.title{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+p.abstract {
+	padding: 40px;
+}
