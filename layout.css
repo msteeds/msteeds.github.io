@@ -23,3 +23,19 @@ p.abstract {
 	padding-left: 40px;
 	padding-right: 40px;
 }
+
+p.authors{
+	font-style: italic;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+p.title{
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+p.preamble{
+	padding-right: 30px;
+	padding-left: 30px;
+}
